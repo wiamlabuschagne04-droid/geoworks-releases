@@ -1,0 +1,9 @@
+{
+  "version": "0.5.0",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.5.0/GeoWorks-Test-Build.zip",
+  "sha256": "bd5570ce3c53b9f9e0d8efba355c7d20cd3e2177f14ab19b018e363cc7a0e031",
+  "size": 123815764,
+  "published": "2026-09-10",
+  "notes": "Drawing-first layout: 7 groups on the left rail, drawing always in the centre, data flows from traverse/levels/PPK straight to the drawing.",
+  "min_version": "0.4.0"
+}
