@@ -1,9 +1,9 @@
 {
-  "version": "0.6.0",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.6.0/GeoWorks-Test-Build.zip",
-  "sha256": "b94820d07b47ed0c909ba867ef4bbd6149050c13f507e4284e4dc5e36af6eca5",
-  "size": 123861133,
-  "published": "2026-09-10",
-  "notes": "Focus mode (F11) for a full-screen drawing, zoom at the cursor, right-click menu, 3D view, and automatic stockpile detection with volumes and a 3D report.",
+  "version": "0.7.0",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.7.0/GeoWorks-Test-Build.zip",
+  "sha256": "752971bf3b199ea1a9fc04822b08f8c25149160854842390f99d0b1a7ee5cd0d",
+  "size": 132058063,
+  "published": "2026-09-11",
+  "notes": "Premium redesign (light + dark, splash, welcome tour), CAD command line and selection, 3D view, automatic stockpiles, drafting accuracy 93.7% vs the pro drawing, and the survey engine compiled to native code so it cannot be copied.",
   "min_version": "0.4.0"
 }
