@@ -1,9 +1,9 @@
 {
   "version": "0.7.0",
   "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.7.0/GeoWorks-Test-Build.zip",
-  "sha256": "6b6feecbd7b1f33f60d5e9b44740e32078e819820c1fd5b95c08985b30c58bf7",
-  "size": 137186206,
+  "sha256": "bc54e1a7f81f00114dd0e09834df389726a4c3a41d23fba5829cb9a18eaea551",
+  "size": 137187129,
   "published": "2026-09-11",
-  "notes": "Editable DTM (flip/delete triangles, add spot, smooth), hill-shaded relief, separate minor + index contour intervals, toggleable contour height labels, premium redesign, CAD command line, 3D, auto stockpiles, 93.7% drafting accuracy, native-compiled.",
+  "notes": "Editable DTM, hill-shaded relief, minor + index contour intervals, toggleable contour height labels (now enabled straight after opening a saved project), premium redesign, CAD command line, 3D, auto stockpiles, 93.7% drafting accuracy, native-compiled.",
   "min_version": "0.4.0"
 }
