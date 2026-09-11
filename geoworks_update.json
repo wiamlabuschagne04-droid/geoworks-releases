@@ -1,9 +1,9 @@
 {
   "version": "0.7.0",
   "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.7.0/GeoWorks-Test-Build.zip",
-  "sha256": "752971bf3b199ea1a9fc04822b08f8c25149160854842390f99d0b1a7ee5cd0d",
-  "size": 132058063,
+  "sha256": "63c66d43f917e08770db155b4862d412a8665da2e85efb74600a3a5f5bdb3119",
+  "size": 137015340,
   "published": "2026-09-11",
-  "notes": "Premium redesign (light + dark, splash, welcome tour), CAD command line and selection, 3D view, automatic stockpiles, drafting accuracy 93.7% vs the pro drawing, and the survey engine compiled to native code so it cannot be copied.",
+  "notes": "Premium redesign (light + dark, splash, welcome tour), CAD command line and selection, 3D view, automatic stockpiles, drafting accuracy 93.7% vs the pro drawing, and the whole program (survey engine and interface) compiled to native code so it cannot be copied.",
   "min_version": "0.4.0"
 }
