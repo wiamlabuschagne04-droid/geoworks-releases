@@ -1,9 +1,9 @@
 {
   "version": "0.7.0",
   "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.7.0/GeoWorks-Test-Build.zip",
-  "sha256": "4d253c5b130195bbbc2fa1fcb9267f9276abf8a50e897104513dffcd40489579",
-  "size": 137015767,
+  "sha256": "e2c0635527f8a927817f2ed8e35e3f74fcb8cb028e7548e9731a9164a63881be",
+  "size": 137173278,
   "published": "2026-09-11",
-  "notes": "Premium redesign (light + dark, splash, welcome tour), CAD command line and selection, 3D view, automatic stockpiles, drafting accuracy 93.7% vs the pro drawing, whole program compiled to native code, and hardened CSV import so it never fails on Excel-exported files.",
+  "notes": "Editable DTM surface (flip/delete triangles, add spot, live recontour, smooth), hill-shaded colour relief, plus the premium redesign, CAD command line, 3D view, automatic stockpiles, 93.7% drafting accuracy, hardened CSV import, and native-compiled code.",
   "min_version": "0.4.0"
 }
