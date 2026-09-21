@@ -1,9 +1,9 @@
 {
-  "version": "0.9.0",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.0/GeoWorks-Test-Build.zip",
-  "sha256": "e1610670c5b99e1491c9a059fdc847d5bb411334ac56f7d7e3d9dae51bb21b0a",
-  "size": 137782395,
+  "version": "0.9.1",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.1/GeoWorks-Test-Build.zip",
+  "sha256": "7a562f4a680bbd0b5ee2837670dd1915a552e6739df66756c4e0ed1e9260601e",
+  "size": 137785123,
   "published": "2026-09-21",
-  "notes": "Ctrl+K finds any command; F9 Project tree; heavy work runs in the background; traverse reads ordinary tables and needs no separate control file; every button now reports instead of doing nothing.",
+  "notes": "The drawing now opens only when you click Drawing (or F11) - every other panel gets the whole window. Plus 0.9.0: Ctrl+K command search, F9 project tree, background jobs, traverse reads ordinary tables with no control file, and no button fails silently.",
   "min_version": ""
 }
