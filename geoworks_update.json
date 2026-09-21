@@ -1,9 +1,9 @@
 {
-  "version": "0.9.1",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.1/GeoWorks-Test-Build.zip",
-  "sha256": "7a562f4a680bbd0b5ee2837670dd1915a552e6739df66756c4e0ed1e9260601e",
-  "size": 137785123,
+  "version": "0.9.2",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.2/GeoWorks-0.9.2.zip",
+  "sha256": "19561b1b68bb7689cf9e473f4d5bb31e9e4ddb17b95deb2b56d2d5ebd183927e",
+  "size": 137834131,
   "published": "2026-09-21",
-  "notes": "The drawing now opens only when you click Drawing (or F11) - every other panel gets the whole window. Plus 0.9.0: Ctrl+K command search, F9 project tree, background jobs, traverse reads ordinary tables with no control file, and no button fails silently.",
+  "notes": "Grip editing: click a vertex to pick it up, click again to drop it on the right point. Del removes a vertex, Ins adds one, right-click drops it straight onto the nearest surveyed point.",
   "min_version": ""
 }
