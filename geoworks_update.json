@@ -1,9 +1,9 @@
 {
-  "version": "0.7.0",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.7.0/GeoWorks-Test-Build.zip",
-  "sha256": "bc54e1a7f81f00114dd0e09834df389726a4c3a41d23fba5829cb9a18eaea551",
-  "size": 137187129,
-  "published": "2026-09-11",
-  "notes": "Editable DTM, hill-shaded relief, minor + index contour intervals, toggleable contour height labels (now enabled straight after opening a saved project), premium redesign, CAD command line, 3D, auto stockpiles, 93.7% drafting accuracy, native-compiled.",
-  "min_version": "0.4.0"
+  "version": "0.9.0",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.0/GeoWorks-Test-Build.zip",
+  "sha256": "e1610670c5b99e1491c9a059fdc847d5bb411334ac56f7d7e3d9dae51bb21b0a",
+  "size": 137782395,
+  "published": "2026-09-21",
+  "notes": "Ctrl+K finds any command; F9 Project tree; heavy work runs in the background; traverse reads ordinary tables and needs no separate control file; every button now reports instead of doing nothing.",
+  "min_version": ""
 }
