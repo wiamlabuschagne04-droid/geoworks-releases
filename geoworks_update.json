@@ -1,9 +1,9 @@
 {
-  "version": "0.9.3",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.3/GeoWorks-0.9.3.zip",
-  "sha256": "34b3a52f4e821774ae8ab8605165d572abb75326c8517838afabe4d6e0291f82",
-  "size": 137853975,
-  "published": "2026-09-22",
-  "notes": "Erase one section of a string: Ctrl+click the bad piece in Erase (or right-click the line). The rest of the string stays.",
+  "version": "0.9.4",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.4/GeoWorks-0.9.4.zip",
+  "sha256": "a3da1e8a6e1bc97016b827fe287cfe958b2eaf2943e72f5133e0199d1731e2f5",
+  "size": 137918322,
+  "published": "2026-09-23",
+  "notes": "Easier first five minutes: every empty panel offers the next step, drop a file on the window and it goes to the right panel, the drawing tools are grouped and name themselves, and every label on green is now readable.",
   "min_version": ""
 }
