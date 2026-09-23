@@ -1,9 +1,9 @@
 {
-  "version": "0.9.4",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.4/GeoWorks-0.9.4.zip",
-  "sha256": "a3da1e8a6e1bc97016b827fe287cfe958b2eaf2943e72f5133e0199d1731e2f5",
-  "size": 137918322,
+  "version": "0.9.5",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.5/GeoWorks-0.9.5.zip",
+  "sha256": "a67aba3cb47cf4a439ece06c76b4a309f7776e3433ed0bd978aeb7d9b5ded084",
+  "size": 137952781,
   "published": "2026-09-23",
-  "notes": "Easier first five minutes: every empty panel offers the next step, drop a file on the window and it goes to the right panel, the drawing tools are grouped and name themselves, and every label on green is now readable.",
+  "notes": "Pick something and the tools come to it: a bar above the drawing names what is selected and offers only the verbs that apply (Join for two lines, Offset/Break/Trim for one), with the rest under More. New Reverse.",
   "min_version": ""
 }
