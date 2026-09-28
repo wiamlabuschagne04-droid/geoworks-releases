@@ -1,9 +1,9 @@
 {
-  "version": "0.9.6",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.6/GeoWorks-0.9.6.zip",
-  "sha256": "01861ef88ebb6622c4c728905342600cb52828070d12793e469d3a70e04a8a60",
-  "size": 138107219,
+  "version": "0.9.7",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.7/GeoWorks-0.9.7.zip",
+  "sha256": "06a998222c240a277e3792a83ab75f25103bc846467096dcd203dd6436011b0f",
+  "size": 138173416,
   "published": "2026-09-28",
-  "notes": "The live model: once a DTM has been built, correcting a point height (or adding, deleting or re-coding a point) rebuilds the surface, contours and drawing by itself in the background.",
+  "notes": "The live model is whole: correct a point, edit a string on the drawing, or change a surface, and the surface, contours, drawing and the volumes measured on it all rebuild by themselves. Every disabled button now says why.",
   "min_version": ""
 }
