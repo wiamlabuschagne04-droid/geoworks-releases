@@ -1,9 +1,9 @@
 {
-  "version": "0.9.7",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.7/GeoWorks-0.9.7.zip",
-  "sha256": "06a998222c240a277e3792a83ab75f25103bc846467096dcd203dd6436011b0f",
-  "size": 138173416,
-  "published": "2026-09-28",
-  "notes": "The live model is whole: correct a point, edit a string on the drawing, or change a surface, and the surface, contours, drawing and the volumes measured on it all rebuild by themselves. Every disabled button now says why.",
+  "version": "0.9.8",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.8/GeoWorks-0.9.8.zip",
+  "sha256": "85d7c634899ba94a99f7bb3ec7c519e502fb173ce404a683d4cd51ebcd8d2ff8",
+  "size": 138572598,
+  "published": "2026-09-29",
+  "notes": "The menu bar is gone. The top of the window now carries the job you are working on and whether it is saved, with File, Settings and ? beside it; View and Tools moved into a real Settings window. The start page shows the six groups as cards across the page with your recent jobs beside them, and the drawing panel says what the job holds and what to do next. Every shortcut and every Ctrl+K name still works.",
   "min_version": ""
 }
