@@ -1,9 +1,9 @@
 {
-  "version": "0.10.0",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.10.0/GeoWorks-0.10.0.zip",
-  "sha256": "0d3dfdf5911e08139c743ddf1e02017e69f24f94521823a4ed4834a11e5a54a3",
-  "size": 138820292,
+  "version": "0.12.0",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.0/GeoWorks-0.12.0.zip",
+  "sha256": "05436c3e082c97b29f4c90968588378f045ddfda84131fdeaef96efdb74aee83",
+  "size": 139307976,
   "published": "2026-10-01",
-  "notes": "The drawing is now the biggest thing on screen: the Drawing tools moved to tabs across the top and the drawing went from 28% of the window to 75%, with results in a pane underneath. New Design group: set out points at a spacing and offsets along any line, and fit the surface a field should be levelled to.",
+  "notes": "Dams (wall + stage-storage) and road corridors under Design; how a slope is written is now a setting (1:2 / 2:1 / 50% / 26.6 deg / 1 in 2). Fixed: the Terraces tab could not pick a line off the drawing, and a batter only ran at an edge's own vertices.",
   "min_version": ""
 }
