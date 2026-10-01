@@ -1,9 +1,9 @@
 {
-  "version": "0.9.9",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.9.9/GeoWorks-0.9.9.zip",
-  "sha256": "cfdeca1b3f8a916c796297d50516df37e7b7df67968097f2732816da7e696a01",
-  "size": 138568283,
-  "published": "2026-09-29",
-  "notes": "Your field codes now steer the drawing: CLS closes a string, STA starts a new one, CRV marks it curved \u2014 and a control code no longer breaks the string it was shot on. The Project page's thirteen buttons became five with nothing removed, points answer a right-click, and every empty table says what fills it.",
+  "version": "0.10.0",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.10.0/GeoWorks-0.10.0.zip",
+  "sha256": "0d3dfdf5911e08139c743ddf1e02017e69f24f94521823a4ed4834a11e5a54a3",
+  "size": 138820292,
+  "published": "2026-10-01",
+  "notes": "The drawing is now the biggest thing on screen: the Drawing tools moved to tabs across the top and the drawing went from 28% of the window to 75%, with results in a pane underneath. New Design group: set out points at a spacing and offsets along any line, and fit the surface a field should be levelled to.",
   "min_version": ""
 }
