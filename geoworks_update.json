@@ -1,9 +1,9 @@
 {
-  "version": "0.12.3",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.3/GeoWorks-0.12.3.zip",
-  "sha256": "4cbe5f52f52dd65efa8c4c32c8df24c261aef49cd88d7e83151b2c44a580da69",
-  "size": 139401246,
+  "version": "0.12.5",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.5/GeoWorks-0.12.5.zip",
+  "sha256": "f0036ae11e8261e7d252f8ba124155d68794dae048cef58437a5fceda08bbe08",
+  "size": 139409717,
   "published": "2026-10-01",
-  "notes": "Two engines that were built, tested and impossible to reach now have doors: Project > Costing works out what your own machine costs to run and marks which figures are yours, and Land levelling can open an FJD .agd, a .land file, a shapefile or a survey CSV and write the design back to the machine. Volumes rebuilt so nothing is clipped, and every group on the rail now has its own icon.",
+  "notes": "Terraces, Dams and Roads could not find a surface you had just built - they asked a flag that is only set while surface editing is switched on. They now ask the job, and say which surface they are designing on. Ctrl+K can also reach every section by name now: terraces, dams, roads, set out, land levelling and costing all found nothing before.",
   "min_version": ""
 }
