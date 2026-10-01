@@ -1,9 +1,9 @@
 {
-  "version": "0.12.2",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.2/GeoWorks-0.12.2.zip",
-  "sha256": "a98021660c29913c2b8e1adaa977b422abc9239ec2bd891f545f5b432312a3b0",
-  "size": 139322751,
+  "version": "0.12.3",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.3/GeoWorks-0.12.3.zip",
+  "sha256": "4cbe5f52f52dd65efa8c4c32c8df24c261aef49cd88d7e83151b2c44a580da69",
+  "size": 139401246,
   "published": "2026-10-01",
-  "notes": "The Start page cards were blank boxes: a tile measured itself from its (empty) button text and laid every word inside it into zero height. Tiles now size to their contents, and there is a Design tile - and a Volumes tile - where there was no way in to those workspaces from the first screen at all.",
+  "notes": "Two engines that were built, tested and impossible to reach now have doors: Project > Costing works out what your own machine costs to run and marks which figures are yours, and Land levelling can open an FJD .agd, a .land file, a shapefile or a survey CSV and write the design back to the machine. Volumes rebuilt so nothing is clipped, and every group on the rail now has its own icon.",
   "min_version": ""
 }
