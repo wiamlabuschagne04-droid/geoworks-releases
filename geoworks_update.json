@@ -1,9 +1,9 @@
 {
-  "version": "0.12.1",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.1/GeoWorks-0.12.1.zip",
-  "sha256": "b1c4e93062e0d45bfc219f52de283af93108765462a07ad9cba3c58bee1ffb6e",
-  "size": 139321417,
+  "version": "0.12.2",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.2/GeoWorks-0.12.2.zip",
+  "sha256": "a98021660c29913c2b8e1adaa977b422abc9239ec2bd891f545f5b432312a3b0",
+  "size": 139322751,
   "published": "2026-10-01",
-  "notes": "Fixes three controls you could not see: Build the corridor was pushed off the Roads strip, the dam's crest Width fell below the ribbon, and a 1:3 batter printed as 33.3333%. The ribbon now uses both of the rows it reserves, the action buttons are pinned, and the road cross-section and dam storage settings open in their own panels.",
+  "notes": "The Start page cards were blank boxes: a tile measured itself from its (empty) button text and laid every word inside it into zero height. Tiles now size to their contents, and there is a Design tile - and a Volumes tile - where there was no way in to those workspaces from the first screen at all.",
   "min_version": ""
 }
