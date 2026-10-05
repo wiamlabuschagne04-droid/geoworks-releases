@@ -1,9 +1,9 @@
 {
-  "version": "0.12.5",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.5/GeoWorks-0.12.5.zip",
-  "sha256": "f0036ae11e8261e7d252f8ba124155d68794dae048cef58437a5fceda08bbe08",
-  "size": 139409717,
-  "published": "2026-10-01",
-  "notes": "Terraces, Dams and Roads could not find a surface you had just built - they asked a flag that is only set while surface editing is switched on. They now ask the job, and say which surface they are designing on. Ctrl+K can also reach every section by name now: terraces, dams, roads, set out, land levelling and costing all found nothing before.",
+  "version": "0.12.6",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.6/GeoWorks-0.12.6.zip",
+  "sha256": "15b8ae1bd532ec22ede05d1925494bbd5e55481148c41dad90846b6cbe0093bd",
+  "size": 139414992,
+  "published": "2026-10-05",
+  "notes": "The Project panel never saw your job - it showed Points 0, Surfaces 0, Volumes 0 on every fresh window whatever the job held. Going back to the page you were already on also took 42 percent of the drawing. Both fixed, and a surface you right-click now offers Contour it, Design on it and Measure a volume from it instead of only Zoom to it.",
   "min_version": ""
 }
