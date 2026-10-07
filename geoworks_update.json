@@ -1,9 +1,9 @@
 {
-  "version": "0.12.7",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.7/GeoWorks-0.12.7.zip",
-  "sha256": "06035b7a94942664551a041bff049fd32f2e970bd54c659761eccf147b98a24d",
-  "size": 139417276,
-  "published": "2026-10-05",
-  "notes": "Since 0.12.1 the toolbar above the drawing had been showing only two buttons on a normal screen - Peg the toe, Peg the strings, Strings to drawing, Wall to drawing and Detect heaps were all hidden in the More menu. They are back on the strip. Detect heaps in particular: finding every stockpile without a seed click is the one thing GeoWorks does that TBC, Pix4D and Carlson cannot.",
+  "version": "0.12.8",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.8/GeoWorks-0.12.8.zip",
+  "sha256": "776684213330f58086f6b2f64f6da9e78110ec87132eb151b0455bd7defad1cb",
+  "size": 139428570,
+  "published": "2026-10-07",
+  "notes": "Every primary button on every page was connected to nothing - Compute, Generate, Import, Fit the design, Find the toe, Design the dam, Build the corridor and Work out the rate all did nothing when pressed. They work. Twenty-two tools could not be found from Ctrl+K at all, including Merge, Clip to boundary, Grid DTM and Mark control; every one of the window's 159 controls is now searchable. And the volume report no longer makes you wait: on a real 4.5 km job it took 73 seconds, all of it a 1 m grid check cross-checking a number it agreed with to 1.4 cubic metres in six million. The check now follows the size of the site and takes one second.",
   "min_version": ""
 }
