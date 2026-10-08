@@ -1,9 +1,9 @@
 {
-  "version": "0.12.9",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.9/GeoWorks-0.12.9.zip",
-  "sha256": "1f3201f98247efbf53faf8170f6b8a7c43aa19145838a4236973d32e0e1a5c48",
-  "size": 131239448,
+  "version": "0.12.10",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.10/GeoWorks-0.12.10.zip",
+  "sha256": "f9805d598045dbeb861ce51bb22fe83e39d70938df6799e11dfa68bc93c358bc",
+  "size": 131296159,
   "published": "2026-10-08",
-  "notes": "0.12.9: Properties is a column on the right of the drawing; one-line header; nothing clipped on the first screen; 17 MB smaller install.",
+  "notes": "0.12.10: captioned, folding ribbon; parameters in a Settings pane on the right; results tables grade themselves.",
   "min_version": ""
 }
