@@ -1,9 +1,9 @@
 {
-  "version": "0.12.10",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.10/GeoWorks-0.12.10.zip",
-  "sha256": "f9805d598045dbeb861ce51bb22fe83e39d70938df6799e11dfa68bc93c358bc",
-  "size": 131296159,
+  "version": "0.12.11",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.11/GeoWorks-0.12.11.zip",
+  "sha256": "bb4ec7f9624d056eeb971eaeb8fee51b59a477137a4510821b4fcf2c3a0cce83",
+  "size": 131394697,
   "published": "2026-10-08",
-  "notes": "0.12.10: captioned, folding ribbon; parameters in a Settings pane on the right; results tables grade themselves.",
+  "notes": "0.12.11: Traverse and PPK walk you through their steps; a status bar under the drawing; fits a 1366 px laptop.",
   "min_version": ""
 }
