@@ -1,9 +1,9 @@
 {
-  "version": "0.12.8",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.8/GeoWorks-0.12.8.zip",
-  "sha256": "776684213330f58086f6b2f64f6da9e78110ec87132eb151b0455bd7defad1cb",
-  "size": 139428570,
-  "published": "2026-10-07",
-  "notes": "Every primary button on every page was connected to nothing - Compute, Generate, Import, Fit the design, Find the toe, Design the dam, Build the corridor and Work out the rate all did nothing when pressed. They work. Twenty-two tools could not be found from Ctrl+K at all, including Merge, Clip to boundary, Grid DTM and Mark control; every one of the window's 159 controls is now searchable. And the volume report no longer makes you wait: on a real 4.5 km job it took 73 seconds, all of it a 1 m grid check cross-checking a number it agreed with to 1.4 cubic metres in six million. The check now follows the size of the site and takes one second.",
+  "version": "0.12.9",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.9/GeoWorks-0.12.9.zip",
+  "sha256": "1f3201f98247efbf53faf8170f6b8a7c43aa19145838a4236973d32e0e1a5c48",
+  "size": 131239448,
+  "published": "2026-10-08",
+  "notes": "0.12.9: Properties is a column on the right of the drawing; one-line header; nothing clipped on the first screen; 17 MB smaller install.",
   "min_version": ""
 }
