@@ -1,9 +1,9 @@
 {
-  "version": "0.12.12",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.12/GeoWorks-0.12.12.zip",
-  "sha256": "b185368a222f20764ace6977824ba5d709214ded0ed5f72ea3a049feca6f90bb",
-  "size": 137042026,
-  "published": "2026-10-14",
-  "notes": "New Scan workspace: open a LAS/LAZ scan and see the cloud itself, find the ground (Trion's flat/gentle/steep presets), build the DTM and check it against your BMs, holes named. Find ground now gives one answer every run, and stray returns no longer wreck it. Plus everything from the Model Maker audit: civil design, instrument files, water on the surface, dimensions, report previews; cut and fill on Volumes now the right way round.",
+  "version": "0.12.14",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.14/GeoWorks-0.12.14.zip",
+  "sha256": "c5188669ff83e8906f67d9fc773598107825651eff2587dfdfdf01edf2254cdb",
+  "size": 137405678,
+  "published": "2026-10-18",
+  "notes": "Scan: register a scan to your benchmarks (height only, shift, shift and turn, full 3-D) with every pair's error shown and bad benchmarks named; an accuracy report PDF before and after; export the whole registered scan as LAZ. Slice the cloud (plan slice or section) and draw from it: Trace lines draws every wall and kerb in a slice at once, or click lines yourself. Fixed: GeoWorks could close without warning while building a DTM when two shots share one spot on a breakline.",
   "min_version": ""
 }
