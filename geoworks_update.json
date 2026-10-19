@@ -1,9 +1,9 @@
 {
-  "version": "0.12.16",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.16/GeoWorks-0.12.16.zip",
-  "sha256": "d1fce61b025be9f8683f75fa89135da4dc8b5b5c4280e59edcbce7962c92dd01",
-  "size": 138746421,
+  "version": "0.12.17",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.17/GeoWorks-0.12.17.zip",
+  "sha256": "4ed43c3bbd5f83a0f6a9e3f05c50054870c507f9c470babc5012c33a7824a381",
+  "size": 138998425,
   "published": "2026-10-19",
-  "notes": "GNSS: the network adjustment report (loop closures, repeated vectors, adjusted coordinates and every residual) now comes straight from GNSS > Vectors > Report PDF, and importing vectors shows the loop closures at once. A new import clears the previous adjustment.",
+  "notes": "Scan > Compare: see what changed between two scans (only change beyond what the scans can detect is coloured) and check a scan against a design surface, each with a PDF report. DTM: choose each cell's height (mean, median, lowest, 10th percentile) and see thin or noisy cells before signing it. Change detection is about 4x faster on large scans. The survey standard's name is no longer shown anywhere; every rule is unchanged.",
   "min_version": ""
 }
