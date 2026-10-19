@@ -1,9 +1,9 @@
 {
-  "version": "0.12.17",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.17/GeoWorks-0.12.17.zip",
-  "sha256": "4ed43c3bbd5f83a0f6a9e3f05c50054870c507f9c470babc5012c33a7824a381",
-  "size": 138998425,
+  "version": "0.12.18",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.18/GeoWorks-0.12.18.zip",
+  "sha256": "21d4ed4fc72adb86d9b114496f55f573f6b43e377a2b8f8b6fe24d4efccd85b9",
+  "size": 139077540,
   "published": "2026-10-19",
-  "notes": "Scan > Compare: see what changed between two scans (only change beyond what the scans can detect is coloured) and check a scan against a design surface, each with a PDF report. DTM: choose each cell's height (mean, median, lowest, 10th percentile) and see thin or noisy cells before signing it. Change detection is about 4x faster on large scans. The survey standard's name is no longer shown anywhere; every rule is unchanged.",
+  "notes": "Check points judged by the survey standard: pick the feature (DTM spot shots, kerbing, road surface, pipes, rail, photogrammetry...) and GeoWorks applies the rule that 80% of the check points must be within 3x the feature's height accuracy (2x for photogrammetry), plus the contour rule (80% within 0.2x the interval). On Stake-out (staked vs surface and the check sections sheet) and on Scan > Register (the control check and the accuracy report).",
   "min_version": ""
 }
