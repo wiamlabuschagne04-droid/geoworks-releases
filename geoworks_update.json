@@ -1,9 +1,9 @@
 {
-  "version": "0.12.14",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.14/GeoWorks-0.12.14.zip",
-  "sha256": "c5188669ff83e8906f67d9fc773598107825651eff2587dfdfdf01edf2254cdb",
-  "size": 137405678,
-  "published": "2026-10-18",
-  "notes": "Scan: register a scan to your benchmarks (height only, shift, shift and turn, full 3-D) with every pair's error shown and bad benchmarks named; an accuracy report PDF before and after; export the whole registered scan as LAZ. Slice the cloud (plan slice or section) and draw from it: Trace lines draws every wall and kerb in a slice at once, or click lines yourself. Fixed: GeoWorks could close without warning while building a DTM when two shots share one spot on a breakline.",
+  "version": "0.12.15",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.15/GeoWorks-0.12.15.zip",
+  "sha256": "ae363502d2714fcdfe7c4d1fd9cd09bf0dd10a8a6714d93c77cf3a2a28410d47",
+  "size": 138739088,
+  "published": "2026-10-19",
+  "notes": "Scan now has tabs (Scan, Draw, Clean). Clean: remove stray points (set aside as noise, never deleted), crop box, a brush that reclassifies points, undo. Batch: process many scans in one run to DXF contours, LandXML, classified LAZ and accuracy reports, with a summary sheet. E57 scans (FARO, Leica, Trimble, NavVis) now open like LAS / LAZ.",
   "min_version": ""
 }
