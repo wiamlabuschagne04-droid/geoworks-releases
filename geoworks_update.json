@@ -1,9 +1,9 @@
 {
-  "version": "0.12.18",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.18/GeoWorks-0.12.18.zip",
-  "sha256": "21d4ed4fc72adb86d9b114496f55f573f6b43e377a2b8f8b6fe24d4efccd85b9",
-  "size": 139077540,
+  "version": "0.12.19",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.19/GeoWorks-0.12.19.zip",
+  "sha256": "2fa54668e21a538ac9e1aac91a3415b3cbbbe1b64d13f1f6f527bab532db9770",
+  "size": 139157073,
   "published": "2026-10-19",
-  "notes": "Check points judged by the survey standard: pick the feature (DTM spot shots, kerbing, road surface, pipes, rail, photogrammetry...) and GeoWorks applies the rule that 80% of the check points must be within 3x the feature's height accuracy (2x for photogrammetry), plus the contour rule (80% within 0.2x the interval). On Stake-out (staked vs surface and the check sections sheet) and on Scan > Register (the control check and the accuracy report).",
+  "notes": "Scan > Register > Fine-align to scan: pull this scan onto an earlier scan of the same place before comparing them (ICP along the surfaces, never a scale). Only the closest share of matches is fitted, so what changed is left out; scans not already close, or a fit that does not settle, are refused. The DTM is rebuilt and checked on control again; Undo puts it back. Also: Compare reads the second scan with the same coordinate setting as the open one, and the user guide has a Scan section.",
   "min_version": ""
 }
