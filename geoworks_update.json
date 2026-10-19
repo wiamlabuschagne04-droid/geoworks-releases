@@ -1,9 +1,9 @@
 {
-  "version": "0.12.15",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.15/GeoWorks-0.12.15.zip",
-  "sha256": "ae363502d2714fcdfe7c4d1fd9cd09bf0dd10a8a6714d93c77cf3a2a28410d47",
-  "size": 138739088,
+  "version": "0.12.16",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.16/GeoWorks-0.12.16.zip",
+  "sha256": "d1fce61b025be9f8683f75fa89135da4dc8b5b5c4280e59edcbce7962c92dd01",
+  "size": 138746421,
   "published": "2026-10-19",
-  "notes": "Scan now has tabs (Scan, Draw, Clean). Clean: remove stray points (set aside as noise, never deleted), crop box, a brush that reclassifies points, undo. Batch: process many scans in one run to DXF contours, LandXML, classified LAZ and accuracy reports, with a summary sheet. E57 scans (FARO, Leica, Trimble, NavVis) now open like LAS / LAZ.",
+  "notes": "GNSS: the network adjustment report (loop closures, repeated vectors, adjusted coordinates and every residual) now comes straight from GNSS > Vectors > Report PDF, and importing vectors shows the loop closures at once. A new import clears the previous adjustment.",
   "min_version": ""
 }
