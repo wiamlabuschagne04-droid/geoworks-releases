@@ -1,9 +1,9 @@
 {
-  "version": "0.12.19",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.19/GeoWorks-0.12.19.zip",
-  "sha256": "2fa54668e21a538ac9e1aac91a3415b3cbbbe1b64d13f1f6f527bab532db9770",
-  "size": 139157073,
+  "version": "0.12.20",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.20/GeoWorks-0.12.20.zip",
+  "sha256": "bc565212e322008ec4c3c2a66aa30e7df7467080f709d818a102a165a81fb114",
+  "size": 139259406,
   "published": "2026-10-19",
-  "notes": "Scan > Register > Fine-align to scan: pull this scan onto an earlier scan of the same place before comparing them (ICP along the surfaces, never a scale). Only the closest share of matches is fitted, so what changed is left out; scans not already close, or a fit that does not settle, are refused. The DTM is rebuilt and checked on control again; Undo puts it back. Also: Compare reads the second scan with the same coordinate setting as the open one, and the user guide has a Scan section.",
+  "notes": "Dams: the earth in the wall was counted too low - the block under the crest was left out (a 2 m wall with a 4 m crest showed 10 m3 a metre instead of 18), and the quarry and quote used that figure. Fixed; re-run any dam quote made with an earlier version. A new wall also no longer keeps the previous wall's quarry and quote. Scan > Register > Pick on a sphere or a chequerboard: the pair uses the target's fitted centre instead of the clicked point.",
   "min_version": ""
 }
