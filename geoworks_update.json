@@ -1,9 +1,9 @@
 {
-  "version": "0.12.21",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.21/GeoWorks-0.12.21.zip",
-  "sha256": "82df60b9fba7f4618309cadbfe490dc64725277ce17c9e408d6614637c12ddd9",
-  "size": 139713737,
+  "version": "0.12.22",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.22/GeoWorks-0.12.22.zip",
+  "sha256": "87dc3925a23c6a6e1d5b60704515f11b17832b25ccc058a224f9e6b3e31c6c04",
+  "size": 140677058,
   "published": "2026-10-20",
-  "notes": "Design > Contour banks: graded banks laid out from a waterway at the SA spacing rule, drawn and pegged. Dams > Safety and spillway: dam-with-a-safety-risk and category, spillway width from the catchment, freeboard, cut-off trench and topsoil in the quote. The drawing tools are now across the top, named (BricsCAD style). Peg grid inside a closed line in one click. Scan > Draw > Sections along a centreline. Fixed: importing points through the column preview did not fill the points table.",
+  "notes": "Offset the fast way: select a line, press O, move the mouse to the side, click or type the distance and Enter; Enter again makes the next one. Images and PDF plans: drop them on the drawing - a world file, GeoTIFF or GeoPDF lands in place by itself, anything else is aligned by clicking a point on the image and where it really is (snaps to survey points). Placed images now come back when a job reopens. Scan > Clean: noise filter, thin evenly, density map.",
   "min_version": ""
 }
