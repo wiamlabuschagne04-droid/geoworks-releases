@@ -1,9 +1,9 @@
 {
-  "version": "0.12.20",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.20/GeoWorks-0.12.20.zip",
-  "sha256": "bc565212e322008ec4c3c2a66aa30e7df7467080f709d818a102a165a81fb114",
-  "size": 139259406,
-  "published": "2026-10-19",
-  "notes": "Dams: the earth in the wall was counted too low - the block under the crest was left out (a 2 m wall with a 4 m crest showed 10 m3 a metre instead of 18), and the quarry and quote used that figure. Fixed; re-run any dam quote made with an earlier version. A new wall also no longer keeps the previous wall's quarry and quote. Scan > Register > Pick on a sphere or a chequerboard: the pair uses the target's fitted centre instead of the clicked point.",
+  "version": "0.12.21",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.21/GeoWorks-0.12.21.zip",
+  "sha256": "82df60b9fba7f4618309cadbfe490dc64725277ce17c9e408d6614637c12ddd9",
+  "size": 139713737,
+  "published": "2026-10-20",
+  "notes": "Design > Contour banks: graded banks laid out from a waterway at the SA spacing rule, drawn and pegged. Dams > Safety and spillway: dam-with-a-safety-risk and category, spillway width from the catchment, freeboard, cut-off trench and topsoil in the quote. The drawing tools are now across the top, named (BricsCAD style). Peg grid inside a closed line in one click. Scan > Draw > Sections along a centreline. Fixed: importing points through the column preview did not fill the points table.",
   "min_version": ""
 }
