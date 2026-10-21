@@ -1,9 +1,9 @@
 {
-  "version": "0.12.23",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.23/GeoWorks-0.12.23.zip",
-  "sha256": "54c8c62b3fd7251733df4fc985cb0bd21ba207b428e40bd2a1db727603c07ff5",
-  "size": 140998101,
+  "version": "0.12.24",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.24/GeoWorks-0.12.24.zip",
+  "sha256": "ad3830541f96d3bf69edb376b929d6ee1b268595858889334a5fde9500170f26",
+  "size": 141118848,
   "published": "2026-10-21",
-  "notes": "PPK now works when started from the window (files picked with Browse reach the engine correctly), and Galileo satellites are recovered from the receiver's .UBX log when Emlid's RINEX leaves them out - no more wrong 'fixed' heights. New Help bubble: ask questions, report a problem with your files, and run the job again once it is fixed. Rotate and Scale take a typed angle or factor with a live preview.",
+  "notes": "Updates now install inside GeoWorks itself: it checks that the new version starts on your computer before switching, waits while your antivirus checks it, and tells you plainly if the antivirus blocks it. Points import as they will be read (decimal-comma and northing-first files work, live preview, Swap E/N, where the first point lands). Installing a geoid now tests it, shows its N at the job and puts it to use; geoids can be named (e.g. SAGEOID2010). IMPORTANT: installs older than this cannot update themselves to it - install 0.12.24 once by hand from the download link.",
   "min_version": ""
 }
