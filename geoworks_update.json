@@ -1,9 +1,9 @@
 {
-  "version": "0.12.22",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.22/GeoWorks-0.12.22.zip",
-  "sha256": "87dc3925a23c6a6e1d5b60704515f11b17832b25ccc058a224f9e6b3e31c6c04",
-  "size": 140677058,
-  "published": "2026-10-20",
-  "notes": "Offset the fast way: select a line, press O, move the mouse to the side, click or type the distance and Enter; Enter again makes the next one. Images and PDF plans: drop them on the drawing - a world file, GeoTIFF or GeoPDF lands in place by itself, anything else is aligned by clicking a point on the image and where it really is (snaps to survey points). Placed images now come back when a job reopens. Scan > Clean: noise filter, thin evenly, density map.",
+  "version": "0.12.23",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.23/GeoWorks-0.12.23.zip",
+  "sha256": "54c8c62b3fd7251733df4fc985cb0bd21ba207b428e40bd2a1db727603c07ff5",
+  "size": 140998101,
+  "published": "2026-10-21",
+  "notes": "PPK now works when started from the window (files picked with Browse reach the engine correctly), and Galileo satellites are recovered from the receiver's .UBX log when Emlid's RINEX leaves them out - no more wrong 'fixed' heights. New Help bubble: ask questions, report a problem with your files, and run the job again once it is fixed. Rotate and Scale take a typed angle or factor with a live preview.",
   "min_version": ""
 }
