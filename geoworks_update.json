@@ -1,9 +1,9 @@
 {
-  "version": "0.12.24",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.24/GeoWorks-0.12.24.zip",
-  "sha256": "ad3830541f96d3bf69edb376b929d6ee1b268595858889334a5fde9500170f26",
-  "size": 141118848,
-  "published": "2026-10-21",
-  "notes": "Updates now install inside GeoWorks itself: it checks that the new version starts on your computer before switching, waits while your antivirus checks it, and tells you plainly if the antivirus blocks it. Points import as they will be read (decimal-comma and northing-first files work, live preview, Swap E/N, where the first point lands). Installing a geoid now tests it, shows its N at the job and puts it to use; geoids can be named (e.g. SAGEOID2010). IMPORTANT: installs older than this cannot update themselves to it - install 0.12.24 once by hand from the download link.",
+  "version": "0.12.25",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.25/GeoWorks-0.12.25.zip",
+  "sha256": "3e454bec48e733d51918cc2b3626b17863259fdc8b158762ac6674c3a5ef67ea",
+  "size": 141320405,
+  "published": "2026-10-22",
+  "notes": "Trees from a scan: Scan > Draw > Trees places every tree at its real crown size. A calmer screen: help is a ? in the status bar, checks are a pill, every grey button says why, traverse angles in DMS, Pick from project on the input pages, new buttons for trig heights, the calibration report, beacon import/export and Import DEM. Scan files that were cut short now open with a warning.",
   "min_version": ""
 }
