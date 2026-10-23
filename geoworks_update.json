@@ -1,9 +1,9 @@
 {
-  "version": "0.12.25",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.25/GeoWorks-0.12.25.zip",
-  "sha256": "3e454bec48e733d51918cc2b3626b17863259fdc8b158762ac6674c3a5ef67ea",
-  "size": 141320405,
-  "published": "2026-10-22",
-  "notes": "Trees from a scan: Scan > Draw > Trees places every tree at its real crown size. A calmer screen: help is a ? in the status bar, checks are a pill, every grey button says why, traverse angles in DMS, Pick from project on the input pages, new buttons for trig heights, the calibration report, beacon import/export and Import DEM. Scan files that were cut short now open with a warning.",
+  "version": "0.12.26",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.26/GeoWorks-0.12.26.zip",
+  "sha256": "0ce91b18eebd3ae96847956f307fc9a5eb6299ea8e5ee38e421f0f692f4cefb5",
+  "size": 141886387,
+  "published": "2026-10-23",
+  "notes": "Updates now install on office PCs: Trend Micro was stopping every update part-way. Updating from 0.12.24 or 0.12.25 shows a box saying the update was blocked: it was not. Close GeoWorks and it finishes and opens again, updated. Also: about 45 fixes from an outside test run - coordinates, GNSS, levels, traverse, reports, every Deliver button, scans (trees, change area and volume), dams (much faster, walls tied into the valley), land levelling (grade limits, a Tilt a flat field option), banks, catchments and stockpiles.",
   "min_version": ""
 }
