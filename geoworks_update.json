@@ -1,9 +1,9 @@
 {
-  "version": "0.12.26",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.26/GeoWorks-0.12.26.zip",
-  "sha256": "0ce91b18eebd3ae96847956f307fc9a5eb6299ea8e5ee38e421f0f692f4cefb5",
-  "size": 141886387,
-  "published": "2026-10-23",
-  "notes": "Updates now install on office PCs: Trend Micro was stopping every update part-way. Updating from 0.12.24 or 0.12.25 shows a box saying the update was blocked: it was not. Close GeoWorks and it finishes and opens again, updated. Also: about 45 fixes from an outside test run - coordinates, GNSS, levels, traverse, reports, every Deliver button, scans (trees, change area and volume), dams (much faster, walls tied into the valley), land levelling (grade limits, a Tilt a flat field option), banks, catchments and stockpiles.",
+  "version": "0.12.27",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.27/GeoWorks-0.12.27.zip",
+  "sha256": "c00326661460eaa8c4bb19f17cdab0f0dc934deb4213ffc7d1c101c307e598e2",
+  "size": 142247012,
+  "published": "2026-10-26",
+  "notes": "New window shell: a ribbon across the top instead of the left rail, data screens at full width, more room for the drawing (fold the panels, fold the ribbon, F11), a tab for what you select, and tables that find their rows on the drawing. Updates now finish reliably: the new files are copied while GeoWorks is open, and after it closes the update waits for the antivirus with a 'Finishing the update' window.",
   "min_version": ""
 }
