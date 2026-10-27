@@ -1,9 +1,9 @@
 {
-  "version": "0.12.28",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.28/GeoWorks-0.12.28.zip",
-  "sha256": "41b9d13a19d89569471575b5410c6dd3f1408ec6dc84e72f928e532d02ccdada",
-  "size": 143042221,
+  "version": "0.12.29",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.29/GeoWorks-0.12.29.zip",
+  "sha256": "475e96fca622cb551e587bd5743f334ebb03c2f97ba9b2dab2b7c16c48eb0033",
+  "size": 143057184,
   "published": "2026-10-27",
-  "notes": "Scans and GNSS, the new look part 2b: the Scan view gets a start card, a floating view bar, class toggles, section strips, tilt fix, measuring and exports (PLY/PTS/PCD/E57, ortho GeoTIFF, DWG, Word/Excel reports). GNSS \u25b8 Process walks a job from RINEX to report on one page. Updates are now checked at every start and every 6 hours, so a release reaches you the same day. Fixed: coming back from a scan or the 3-D view no longer paints the drawing tools over the ribbon; the GNSS Calibration report button works.",
+  "notes": "Importing works on a new job, and nothing is cut off on a 1080p laptop screen at 125 %. Start > Import a file... with a points CSV now opens the column check and imports the points into the job (it used to load them into the Surface page and ask for a green button that is not there). GNSS > PPK: the right-hand panel no longer runs off its edge. Terraces: Design platforms and Platforms > drawing can be pressed again. The buttons above the settings on the drawing pages are no longer squashed, and the settings get the room an empty Properties box held.",
   "min_version": ""
 }
