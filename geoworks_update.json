@@ -1,9 +1,9 @@
 {
-  "version": "0.12.27",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.27/GeoWorks-0.12.27.zip",
-  "sha256": "c00326661460eaa8c4bb19f17cdab0f0dc934deb4213ffc7d1c101c307e598e2",
-  "size": 142247012,
-  "published": "2026-10-26",
-  "notes": "New window shell: a ribbon across the top instead of the left rail, data screens at full width, more room for the drawing (fold the panels, fold the ribbon, F11), a tab for what you select, and tables that find their rows on the drawing. Updates now finish reliably: the new files are copied while GeoWorks is open, and after it closes the update waits for the antivirus with a 'Finishing the update' window.",
+  "version": "0.12.28",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.28/GeoWorks-0.12.28.zip",
+  "sha256": "41b9d13a19d89569471575b5410c6dd3f1408ec6dc84e72f928e532d02ccdada",
+  "size": 143042221,
+  "published": "2026-10-27",
+  "notes": "Scans and GNSS, the new look part 2b: the Scan view gets a start card, a floating view bar, class toggles, section strips, tilt fix, measuring and exports (PLY/PTS/PCD/E57, ortho GeoTIFF, DWG, Word/Excel reports). GNSS \u25b8 Process walks a job from RINEX to report on one page. Updates are now checked at every start and every 6 hours, so a release reaches you the same day. Fixed: coming back from a scan or the 3-D view no longer paints the drawing tools over the ribbon; the GNSS Calibration report button works.",
   "min_version": ""
 }
