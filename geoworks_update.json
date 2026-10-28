@@ -1,9 +1,9 @@
 {
-  "version": "0.12.30",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.30/GeoWorks-0.12.30.zip",
-  "sha256": "c37c4949e168e717890b60891bb424b5aeb6438a2e0ea3537c9582401323fb45",
-  "size": 143426441,
+  "version": "0.12.31",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.31/GeoWorks-0.12.31.zip",
+  "sha256": "762e54056ba482cd0f51e5afa6efa9145b22cf692a87b5a7bee0c7960cf603fb",
+  "size": 143763734,
   "published": "2026-10-28",
-  "notes": "Faster, and drafting that feels like CAD. GeoWorks opens in about a third of the time (2.1 s, was 5.8 s); a drawing of 100 000 lines loads in half a second; the window no longer freezes when a surface lands, on the first GNSS import, after registering a scan, or while a stockpile report is written. Drafting: the command line asks AutoCAD's way, type distance / bearing / height at the cursor, right-click tools, Properties say Varies, Quick select, layer freeze and plot in the layer's row. New: Plan + 3D side by side, saved layer views, your own one-letter keys (Settings > Keys), workspaces (Survey, Drafting, Design, Scan), and hiding a layer now hides its survey points. Fixed: Job defaults fits a laptop screen; side-panel buttons on the Surface page are no longer cut off; a second GeoWorks opened during an update no longer spoils it.",
+  "notes": "Your own field data, checked like the office packages do. GNSS: Emlid zips and folders drop straight onto GNSS > Process; every occupation is named for its point; short occupations are processed; each baseline is graded Pass / Flag / Fail (forward and backward solutions must agree, as Leica's independent check) with every reason; the plan shows each point alone until processed, then the vectors coloured by grade. Traverse (the staff test against ProSurv): ddd.mmss recognised and said; no silent start bearing of 0 (First-leg direction, taken from control and said); the angular misclosure computed and shared before Bowditch; least squares held in orientation; direction sets and 239-54-09 angles read; Lo Y/X kept positive, directions from +X. Scan: measurements drawn on the cloud with their values; one disturbed benchmark can no longer hide a scan's offset. Surfaces: points with no height are left out and said, not contoured into cliffs.",
   "min_version": ""
 }
