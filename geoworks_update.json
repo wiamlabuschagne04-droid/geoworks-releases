@@ -1,9 +1,9 @@
 {
-  "version": "0.12.29",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.29/GeoWorks-0.12.29.zip",
-  "sha256": "475e96fca622cb551e587bd5743f334ebb03c2f97ba9b2dab2b7c16c48eb0033",
-  "size": 143057184,
-  "published": "2026-10-27",
-  "notes": "Importing works on a new job, and nothing is cut off on a 1080p laptop screen at 125 %. Start > Import a file... with a points CSV now opens the column check and imports the points into the job (it used to load them into the Surface page and ask for a green button that is not there). GNSS > PPK: the right-hand panel no longer runs off its edge. Terraces: Design platforms and Platforms > drawing can be pressed again. The buttons above the settings on the drawing pages are no longer squashed, and the settings get the room an empty Properties box held.",
+  "version": "0.12.30",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.30/GeoWorks-0.12.30.zip",
+  "sha256": "c37c4949e168e717890b60891bb424b5aeb6438a2e0ea3537c9582401323fb45",
+  "size": 143426441,
+  "published": "2026-10-28",
+  "notes": "Faster, and drafting that feels like CAD. GeoWorks opens in about a third of the time (2.1 s, was 5.8 s); a drawing of 100 000 lines loads in half a second; the window no longer freezes when a surface lands, on the first GNSS import, after registering a scan, or while a stockpile report is written. Drafting: the command line asks AutoCAD's way, type distance / bearing / height at the cursor, right-click tools, Properties say Varies, Quick select, layer freeze and plot in the layer's row. New: Plan + 3D side by side, saved layer views, your own one-letter keys (Settings > Keys), workspaces (Survey, Drafting, Design, Scan), and hiding a layer now hides its survey points. Fixed: Job defaults fits a laptop screen; side-panel buttons on the Surface page are no longer cut off; a second GeoWorks opened during an update no longer spoils it.",
   "min_version": ""
 }
