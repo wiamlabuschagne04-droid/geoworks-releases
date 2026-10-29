@@ -1,9 +1,9 @@
 {
-  "version": "0.12.31",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.31/GeoWorks-0.12.31.zip",
-  "sha256": "762e54056ba482cd0f51e5afa6efa9145b22cf692a87b5a7bee0c7960cf603fb",
-  "size": 143763734,
-  "published": "2026-10-28",
-  "notes": "Your own field data, checked like the office packages do. GNSS: Emlid zips and folders drop straight onto GNSS > Process; every occupation is named for its point; short occupations are processed; each baseline is graded Pass / Flag / Fail (forward and backward solutions must agree, as Leica's independent check) with every reason; the plan shows each point alone until processed, then the vectors coloured by grade. Traverse (the staff test against ProSurv): ddd.mmss recognised and said; no silent start bearing of 0 (First-leg direction, taken from control and said); the angular misclosure computed and shared before Bowditch; least squares held in orientation; direction sets and 239-54-09 angles read; Lo Y/X kept positive, directions from +X. Scan: measurements drawn on the cloud with their values; one disturbed benchmark can no longer hide a scan's offset. Surfaces: points with no height are left out and said, not contoured into cliffs.",
+  "version": "0.12.32",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.32/GeoWorks-0.12.32.zip",
+  "sha256": "5937973372a640571e7c543f5e93ba11e40724fbc66e59c97eeb62ffa5bbf380",
+  "size": 145075271,
+  "published": "2026-10-29",
+  "notes": "Auto-Draft: Scan > Auto-Draft drafts the scan (ground, banks, buildings, poles, trees, spot heights) for review, proves it against your control, and exports only checked work. GNSS Process and PPK now say when a point stood on a different known mark than its name. Big scans open without freezing.",
   "min_version": ""
 }
