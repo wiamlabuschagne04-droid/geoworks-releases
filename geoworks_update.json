@@ -1,9 +1,9 @@
 {
-  "version": "0.12.32",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.32/GeoWorks-0.12.32.zip",
-  "sha256": "5937973372a640571e7c543f5e93ba11e40724fbc66e59c97eeb62ffa5bbf380",
-  "size": 145075271,
-  "published": "2026-10-29",
-  "notes": "Auto-Draft: Scan > Auto-Draft drafts the scan (ground, banks, buildings, poles, trees, spot heights) for review, proves it against your control, and exports only checked work. GNSS Process and PPK now say when a point stood on a different known mark than its name. Big scans open without freezing.",
+  "version": "0.12.33",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.33/GeoWorks-0.12.33.zip",
+  "sha256": "2880b95617214bb611ed5c05d589a22cfb2145b1cb404215f3f8677f0a99b8aa",
+  "size": 144969723,
+  "published": "2026-10-30",
+  "notes": "  GNSS: Process baselines lights up when the .26O files are picked on their own\n\n  * Picking only the .26O files now works. Adding the base's and a rover's .26O on their own showed both\n    under Data, but Process baselines stayed grey: the navigation file (.26P / .26N) the receiver wrote\n    beside each .26O, which carries the satellites' orbits, was not brought in. It now comes in with\n    them and the baseline processes. Adding the zips or the folders works as before.\n  * A grey Process baselines now says why, under the button: add the base's and the rovers' files, add\n    a rover, or add a navigation file, whichever it is waiting for.",
   "min_version": ""
 }
