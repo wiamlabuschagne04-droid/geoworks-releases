@@ -1,9 +1,9 @@
 {
-  "version": "0.12.33",
-  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.33/GeoWorks-0.12.33.zip",
-  "sha256": "2880b95617214bb611ed5c05d589a22cfb2145b1cb404215f3f8677f0a99b8aa",
-  "size": 144969723,
-  "published": "2026-10-30",
-  "notes": "  GNSS: Process baselines lights up when the .26O files are picked on their own\n\n  * Picking only the .26O files now works. Adding the base's and a rover's .26O on their own showed both\n    under Data, but Process baselines stayed grey: the navigation file (.26P / .26N) the receiver wrote\n    beside each .26O, which carries the satellites' orbits, was not brought in. It now comes in with\n    them and the baseline processes. Adding the zips or the folders works as before.\n  * A grey Process baselines now says why, under the button: add the base's and the rovers' files, add\n    a rover, or add a navigation file, whichever it is waiting for.",
+  "version": "0.12.34",
+  "url": "https://github.com/wiamlabuschagne04-droid/geoworks-releases/releases/download/v0.12.34/GeoWorks-0.12.34.zip",
+  "sha256": "85ed93d2afb47caaad92269545d15448097f648529477ba2789ac11ffd04f1e0",
+  "size": 145876471,
+  "published": "2026-11-02",
+  "notes": "Training: Help > Training has eight hands-on lessons on practice jobs, with Show me, Check my answer and a printable handout. Auto-Draft now drafts fences, walls, kerbs, water edges and overhead wires, and handles very large scans. What's new, F1 and the user guide are fixed and up to date; file choosers open in the job's folder.",
   "min_version": ""
 }
